@@ -1,4 +1,4 @@
-# aplikasi_kasir
+# responsi_mobile
 
 A new Flutter project.
 
